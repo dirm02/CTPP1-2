@@ -36,5 +36,28 @@ namespace Multi_Login
         {
             Application.Current.Shutdown();
         }
+
+        private void btnAccountlick(object sender, RoutedEventArgs e)
+        {
+            
+
+        }
+
+        private void btnLogout_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+        private void btnCreate_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void btnResolve_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
