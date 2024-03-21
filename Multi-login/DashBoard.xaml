@@ -21,7 +21,7 @@
         <Grid.Background>
             <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
                 <GradientStop Color="#FFFFFFFF" Offset="1" />
-                <GradientStop Color="#FFFE8704" Offset="0" />
+                <GradientStop Color="#1F618D" Offset="0" />
             </LinearGradientBrush>
         </Grid.Background>
         <Border Height="900" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#424949" MouseDown="Border_MouseDown">
