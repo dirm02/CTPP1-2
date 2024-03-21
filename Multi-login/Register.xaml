@@ -14,7 +14,7 @@
                 <GradientStop Color="#FFFE8704" Offset="0" />
             </LinearGradientBrush>
         </Grid.Background>
-        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#303030" MouseDown="Border_MouseDown">
+        <Border Height="390" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#424949" MouseDown="Border_MouseDown">
         </Border>
         <StackPanel Orientation="Horizontal">
             <StackPanel Width="720">

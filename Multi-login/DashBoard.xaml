@@ -11,7 +11,7 @@
         <!-- Define a Style for TabItem -->
         <Style TargetType="TabItem">
             <Setter Property="FontSize" Value="25"/>
-            <Setter Property="Background" Value="#303030"/>
+            <Setter Property="Background" Value="#424949"/>
             <Setter Property="Foreground" Value="Gray"/>            
             <Setter Property="Padding" Value="10,4"/>
             <Setter Property="FontFamily" Value="YourFontFamily"/>
@@ -24,7 +24,7 @@
                 <GradientStop Color="#FFFE8704" Offset="0" />
             </LinearGradientBrush>
         </Grid.Background>
-        <Border Height="900" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#303030" MouseDown="Border_MouseDown">
+        <Border Height="900" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#424949" MouseDown="Border_MouseDown">
         </Border>
         <StackPanel Orientation="Horizontal">
             <StackPanel Width="1120">
@@ -46,7 +46,7 @@
                 <StackPanel Margin="20 20 0 0">
                     <TabControl HorizontalAlignment="Center" BorderThickness="0">
                         <TabItem Header="EscalationP" >
-                            <StackPanel Background="#303030">
+                            <StackPanel Background="#424949">
                                 <StackPanel Orientation="Horizontal">
                                     <Button Margin="20 20 0 0" Width="100" Height="40" Style="{StaticResource MaterialDesignRaisedButton}" 
 materialDesign:ButtonAssist.CornerRadius="10" BorderThickness="2" BorderBrush="#D94448"
@@ -138,22 +138,22 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                             </StackPanel>
                         </TabItem>
                         <TabItem Header="Menu 2" >
-                            <StackPanel Background="#303030">
+                            <StackPanel Background="#424949">
 
                             </StackPanel>
                         </TabItem>
                         <TabItem Header="Menu 3" >
-                            <StackPanel Background="#303030">
+                            <StackPanel Background="#424949">
 
                             </StackPanel>
                         </TabItem>
                         <TabItem Header="Menu 4" >
-                            <StackPanel Background="#303030">
+                            <StackPanel Background="#424949">
 
                             </StackPanel>
                         </TabItem>
                         <TabItem Header="More option" >
-                            <StackPanel Background="#303030">
+                            <StackPanel Background="#424949">
 
                             </StackPanel>
                         </TabItem>
