@@ -68,3 +68,5 @@ D:\Work\C# project\Git Project\Multi-login\obj\Debug\Register.g.cs
 D:\Work\C# project\Git Project\Multi-login\obj\Debug\Register.baml
 D:\Work\C# project\Git Project\Multi-login\obj\Debug\DashBoard.g.cs
 D:\Work\C# project\Git Project\Multi-login\obj\Debug\DashBoard.baml
+D:\Work\C# project\Git Project\Multi-login\obj\Debug\EscalationP.g.cs
+D:\Work\C# project\Git Project\Multi-login\obj\Debug\EscalationP.baml

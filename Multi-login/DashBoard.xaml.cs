@@ -47,15 +47,22 @@ namespace Multi_Login
         {
             
         }
-        private void btnCreate_Click(object sender, RoutedEventArgs e)
+        private void btnEscalationP_Click(object sender, RoutedEventArgs e)
+        {
+            EscalationP escalationP = new EscalationP(this);
+            escalationP.Show();
+            this.Hide();
+
+        }
+        private void btnMenu1_Click(object sender, RoutedEventArgs e)
         {
 
         }
-        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        private void btnMenu2_Click(object sender, RoutedEventArgs e)
         {
 
         }
-        private void btnResolve_Click(object sender, RoutedEventArgs e)
+        private void btnMenu3_Click(object sender, RoutedEventArgs e)
         {
 
         }
