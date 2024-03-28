@@ -6,7 +6,7 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:Multi_Login"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+        Title="MainWindow" Height="400" Width="800" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
     <Window.Resources>
         <!-- Define a Style for TabItem -->
         <Style TargetType="TabItem">
@@ -24,7 +24,7 @@
                 <GradientStop Color="#FFFE8704" Offset="0" />
             </LinearGradientBrush>
         </Grid.Background>
-        <Border Height="400" VerticalAlignment="Top" CornerRadius="0 0 180 0" Background="#424949" MouseDown="Border_MouseDown">
+        <Border Height="400" VerticalAlignment="Top" CornerRadius="0 0 0 0" Background="#424949" MouseDown="Border_MouseDown">
         </Border>
         <StackPanel Orientation="Horizontal">
             <StackPanel Width="720">
