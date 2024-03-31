@@ -59,7 +59,7 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                     <ComboBox Width="200" BorderBrush="White" FontSize="18">
 
                     </ComboBox>
-                    <TextBlock Margin="60 0 0 0" VerticalAlignment="Center" Text="Number of Pay Points" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
+                    <TextBlock Margin="60 0 0 0" VerticalAlignment="Center" Text="PPs" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
                     <ComboBox Margin="30 0 0 0" Width="200" BorderBrush="White" FontSize="18">
 
                     </ComboBox>
