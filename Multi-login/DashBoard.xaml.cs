@@ -39,13 +39,13 @@ namespace Multi_Login
 
         private void btnAccountlick(object sender, RoutedEventArgs e)
         {
-            
+
 
         }
 
         private void btnLogout_Click(object sender, RoutedEventArgs e)
         {
-            
+
         }
         private void btnEscalationP_Click(object sender, RoutedEventArgs e)
         {
