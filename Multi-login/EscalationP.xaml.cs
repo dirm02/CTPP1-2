@@ -19,11 +19,17 @@ namespace Multi_Login
     /// </summary>
     public partial class EscalationP : Window
     {
+
+        bool BusinessImpactTimeState = false;
+
         DashBoard handle;
         public EscalationP(DashBoard handle)
         {
             InitializeComponent();
             this.handle = handle;
+
+            btnImpact.IsEnabled = false;
+            btnTotal.IsEnabled = false;
         }
 
         private void btnCreate_Click(object sender, RoutedEventArgs e)
@@ -38,7 +44,10 @@ namespace Multi_Login
 
         private void btnResolve_Click(object sender, RoutedEventArgs e)
         {
+            BusinessImpactTimeState = !BusinessImpactTimeState;
+            btnImpact.IsEnabled = BusinessImpactTimeState;
 
+            btnTotal.IsEnabled = BusinessImpactTimeState;
         }
         private void Border_MouseDown(object sender, MouseButtonEventArgs e)
         {

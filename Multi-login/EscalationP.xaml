@@ -6,7 +6,7 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:Multi_Login"
         mc:Ignorable="d"
-        Title="MainWindow" Height="620" Width="1044" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+        Title="MainWindow" Height="670" Width="1044" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
     <Grid MouseDown="Border_MouseDown">
         <Grid.Background>
             <LinearGradientBrush StartPoint="0.1,0" EndPoint="0.9,1">
@@ -14,7 +14,7 @@
                 <GradientStop Color="#FFFE8704" Offset="0" />
             </LinearGradientBrush>
         </Grid.Background>
-        <Border Height="620" VerticalAlignment="Top" CornerRadius="0 0 0 0" Background="#424949" MouseDown="Border_MouseDown">
+        <Border Height="670" VerticalAlignment="Top" CornerRadius="0 0 0 0" Background="#424949" MouseDown="Border_MouseDown">
         </Border>
         <StackPanel Orientation="Horizontal">
             <StackPanel Width="944" Margin="20 40 0 0">                
@@ -53,12 +53,16 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                     <StackPanel Width="250" VerticalAlignment="Center">
                         <TextBlock HorizontalAlignment="Left" Margin="20 0 0 0" VerticalAlignment="Center" Text="24 Hour Site" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
                     </StackPanel>
-                    <ComboBox Width="200" BorderBrush="White" FontSize="18">
-
+                    <ComboBox Width="200" BorderBrush="White" FontSize="18" SelectedIndex="0">
+                        <ComboBoxItem Content="Yes"/>
+                        <ComboBoxItem Content="No"/>
                     </ComboBox>
                     <TextBlock Margin="60 0 0 0" VerticalAlignment="Center" Text="Number of Pay Points" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
-                    <ComboBox Margin="30 0 0 0" Width="200" BorderBrush="White" FontSize="18">
-
+                    <ComboBox Margin="30 0 0 0" Width="200" BorderBrush="White" FontSize="18" SelectedIndex="0">
+                        <ComboBoxItem Content="1"/>
+                        <ComboBoxItem Content="2"/>
+                        <ComboBoxItem Content="3"/>
+                        <ComboBoxItem Content="4"/>
                     </ComboBox>
                 </StackPanel>
 
@@ -66,9 +70,30 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                     <StackPanel Width="250" VerticalAlignment="Center">
                         <TextBlock HorizontalAlignment="Left" Margin="20 0 0 0" Text="Incident Description" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
                     </StackPanel>
-                    <ComboBox Width="600" BorderBrush="White" FontSize="18">
-
+                    <ComboBox Width="600" BorderBrush="White" FontSize="18" SelectedIndex="0">
+                        <ComboBoxItem Content="A"/>
+                        <ComboBoxItem Content="B"/>
+                        <ComboBoxItem Content="C"/>
+                        <ComboBoxItem Content="D"/>
+                        <ComboBoxItem Content="E"/>
+                        <ComboBoxItem Content="F"/>
+                        <ComboBoxItem Content="G"/>
+                        <ComboBoxItem Content="H"/>
+                        <ComboBoxItem Content="I"/>
+                        <ComboBoxItem Content="J"/>
+                        <ComboBoxItem Content="K"/>
+                        <ComboBoxItem Content="L"/>
+                        <ComboBoxItem Content="M"/>
+                        <ComboBoxItem Content="N"/>
+                        <ComboBoxItem Content="O"/>
                     </ComboBox>
+                </StackPanel>
+                
+                <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                    <StackPanel Width="250" VerticalAlignment="Center">
+                        <TextBlock HorizontalAlignment="Left" Margin="20 0 0 0" Text="Business impact" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
+                    </StackPanel>
+                    <TextBox materialDesign:HintAssist.Hint="Enter Business impact" Foreground="White" Width="600" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" FontSize="18" />
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
