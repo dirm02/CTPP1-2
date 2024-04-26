@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\C# project\\Git Project\\Multi-login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|f:\\work\\c# project\\git project\\multi-login\\escalationp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:escalationp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\escalationp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:escalationp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|F:\\Work\\C# project\\Git Project\\Multi-login\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscalationP.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\EscalationP.xaml.cs",
+              "RelativeDocumentMoniker": "EscalationP.xaml.cs",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\EscalationP.xaml.cs",
+              "RelativeToolTip": "EscalationP.xaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwFcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:10:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscalationP.xaml",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\EscalationP.xaml",
+              "RelativeDocumentMoniker": "EscalationP.xaml",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\EscalationP.xaml",
+              "RelativeToolTip": "EscalationP.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:10:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFlSURBVDhPpZO9qsJAEIWPqyaFjQha2MUHsNDK1p/eRgsbg1Z2UfAx/AEfwVIb8TksfAGxSBAFJY2FpBiddQ1XvOBe7gfLsgfmMJM5wX\u002BJqBu9Xo/O57N6fWKaJvr9PgqFQljDhI9ms0mTyUS9PuHieDyOwWCAYrEY1gl1axEEAcbjMTabDSnpbwYMm0ynU1yvV2kSk6oGP8fjcV6EHcxmMySTSSQSCUSjUaV\u002BRxqcTid6fESUSiU5o2EY2ibieDxSJpOJcAdcNJ/PZTe8Nh1Eq9XCdrulfD4fqdVqUlyv17ILHQSHx7ZtDIdDWiwWT1HoL0fU63X4vo/lcqmkx2piMVwuFxmcbwjHcdDpdJBOp\u002BXJZrM4HA6yq9vtpmXyhuu6VK1WybIsKpfLtN/vibfkeV54OPavIL39GC/YpN1uY7fbIZfLYbVaodvtguiZ4FQqhdFoxJn5tV7CJpVKhRqNRpj7T4A7TASPsDpkW/8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-25T01:10:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:10:58.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\DashBoard.xaml.cs",
+              "RelativeDocumentMoniker": "DashBoard.xaml.cs",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\DashBoard.xaml.cs",
+              "RelativeToolTip": "DashBoard.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDUAAAAYAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-25T01:10:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.xaml",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\DashBoard.xaml",
+              "RelativeDocumentMoniker": "DashBoard.xaml",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\DashBoard.xaml",
+              "RelativeToolTip": "DashBoard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:10:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Register.xaml.cs",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\Register.xaml.cs",
+              "RelativeToolTip": "Register.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAASwCAAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-25T01:10:58.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T01:10:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:10:58.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "F:\\Work\\C# project\\Git Project\\Multi-login\\Register.xaml",
+              "RelativeDocumentMoniker": "Register.xaml",
+              "ToolTip": "F:\\Work\\C# project\\Git Project\\Multi-login\\Register.xaml",
+              "RelativeToolTip": "Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T01:10:58.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

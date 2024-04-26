@@ -1,0 +1,12 @@
+Site Number: 		
+Location: 		
+Site Contact: 		
+Hour Site: 		Yes
+Number of Pay Points: 		1
+Incident Description: 		65
+Business Impact: 		adfs
+Current Status: 		adf
+Reference Number: 		asdf
+Technician Assigned: 		afds
+Second Level Assigned: 		asdf
+Chronology: 		af
