@@ -10,7 +10,6 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace Multi_Login
@@ -18,11 +17,32 @@ namespace Multi_Login
     /// <summary>
     /// Interaction logic for CallHistory.xaml
     /// </summary>
-    public partial class CallHistory : Page
+    public partial class CallHistory : Window
     {
         public CallHistory()
         {
             InitializeComponent();
+     
+        }
+
+        private void Border_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            // Check if the left (primary) mouse button was pressed.
+            if (e.LeftButton == MouseButtonState.Pressed)
+            {
+                // Safely call DragMove only when the left mouse button is pressed.
+                this.DragMove();
+            }
+        }
+
+        private void btnSave_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
+
+        private void btnExit_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }

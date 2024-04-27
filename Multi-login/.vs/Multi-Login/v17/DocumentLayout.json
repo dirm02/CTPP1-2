@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:callhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|c:\\users\\minidesktop\\desktop\\c#proj\\8thpull\\multi-login\\escalationp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\callhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:callhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\escalationp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:escalationp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|solutionrelative:dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D79A932-472F-41C1-AA2A-7495B8DEC090}|Multi-Login.csproj|C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\escalationp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallHistory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\CallHistory.xaml.cs",
+              "RelativeDocumentMoniker": "CallHistory.xaml.cs",
+              "ToolTip": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\CallHistory.xaml.cs",
+              "RelativeToolTip": "CallHistory.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:19:14.496Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -65,24 +82,23 @@
               "ToolTip": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\CallHistory.xaml",
               "RelativeToolTip": "CallHistory.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-27T20:55:08.394Z",
+              "WhenOpened": "2024-04-27T21:18:54.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EscalationP.xaml",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\EscalationP.xaml",
               "RelativeDocumentMoniker": "EscalationP.xaml",
               "ToolTip": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\EscalationP.xaml",
               "RelativeToolTip": "EscalationP.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-27T20:44:45.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T20:44:45.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DashBoard.xaml",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\DashBoard.xaml",
               "RelativeDocumentMoniker": "DashBoard.xaml",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EscalationP.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\EscalationP.xaml.cs",
               "RelativeDocumentMoniker": "EscalationP.xaml.cs",
@@ -105,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
@@ -117,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -129,19 +145,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DashBoard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\DashBoard.xaml.cs",
               "RelativeDocumentMoniker": "DashBoard.xaml.cs",
               "ToolTip": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\DashBoard.xaml.cs",
               "RelativeToolTip": "DashBoard.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAYwEYAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-04-27T20:44:45.686Z"
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:44:45.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\Register.xaml.cs",
               "RelativeDocumentMoniker": "Register.xaml.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -165,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Register.xaml",
               "DocumentMoniker": "C:\\Users\\MiniDesktop\\Desktop\\C#Proj\\8thpull\\Multi-login\\Register.xaml",
               "RelativeDocumentMoniker": "Register.xaml",
