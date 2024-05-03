@@ -25,7 +25,16 @@
                             <TextBlock Text="Chronology" Foreground="White" TextAlignment="Center" FontSize="22" FontFamily="Great Vibes"/>
                         </StackPanel>
                         <StackPanel Width="350" Margin="0">
-                            <TextBox x:Name="txtChronology" materialDesign:HintAssist.Hint="Enter Chronology" Foreground="White" Width="352" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" Height="240" />
+                            <TextBox 
+                                x:Name="txtChronology" 
+                                materialDesign:HintAssist.Hint="Enter Chronology" 
+                                Foreground="White" Width="352" 
+                                BorderBrush="White" 
+                                TextWrapping="Wrap"
+                                AcceptsReturn="True"
+                                CaretBrush="#FFD94448" 
+                                SelectionBrush="#FFD94448" 
+                                Height="240" />
                         </StackPanel>
                     </StackPanel>
 

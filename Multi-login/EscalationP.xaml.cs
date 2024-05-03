@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -53,6 +54,13 @@ namespace Multi_Login
         {
             handle.Show();
             this.Close();
+        }
+
+        private void btnExpand_Click(object sender, RoutedEventArgs e)
+        {
+            CallHistory callHistory = new CallHistory();
+            this.Hide();
+            callHistory.Show();
         }
     }
 }
