@@ -36,13 +36,27 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                     </Button>
                 </StackPanel>
 
-                <StackPanel Orientation="Horizontal" Margin="0 30 0 0">
+                <StackPanel Orientation="Horizontal" 
+                            Margin="0 10 0 0">
                     <StackPanel Width="250" VerticalAlignment="Center">
                         <TextBlock HorizontalAlignment="Left" Margin="20 0 0 0" VerticalAlignment="Center" Text="Site Number" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
                     </StackPanel>
                     <TextBox x:Name="txtSiteNumber" materialDesign:HintAssist.Hint="Enter Site Number" Foreground="White" Width="200" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" FontSize="18" />
-                    <TextBlock Margin="60 0 0 0" VerticalAlignment="Center" Text="Location" Foreground="White" TextAlignment="Center" FontSize="18" FontFamily="Great Vibes" ></TextBlock>
-                    <TextBox Margin="140 0 0 0" materialDesign:HintAssist.Hint="Enter Location" Foreground="White" Width="200" BorderBrush="White" CaretBrush="#FFD94448" SelectionBrush="#FFD94448" FontSize="18" />
+                    <TextBlock Margin="50 0 0 0"
+                               VerticalAlignment="Center" 
+                               Text="Location" 
+                               Foreground="White" 
+                               TextAlignment="Center" 
+                               FontSize="18" 
+                               FontFamily="Great Vibes" ></TextBlock>
+                    <TextBox Margin="90 0 0 0" 
+                             materialDesign:HintAssist.Hint="Enter Location" 
+                             Foreground="White" 
+                             Width="200" 
+                             BorderBrush="White" 
+                             CaretBrush="#FFD94448" 
+                             SelectionBrush="#FFD94448" 
+                             FontSize="18" />
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
@@ -151,15 +165,21 @@ Background="#D94448" Foreground="White" ToolTip="Resolve" x:Name="btnResolve" Cl
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0 10 0 20">
-                    <StackPanel Width="250" VerticalAlignment="Center">
-                        <Button x:Name="ChronologyB" Content="Chronology" Width="120" Height="50" Click="btnExpand_Click"/>
+                    <StackPanel Width="150" 
+                                VerticalAlignment="Center">
+                        <Button x:Name="ChronologyB" 
+                                Content="Chronology" 
+                                Width="120" Height="50" 
+                                Click="btnExpand_Click"/>
                     </StackPanel>
 
 
                 </StackPanel>                
             </StackPanel>
             <StackPanel Width="80">
-                <Button Margin="10 20" Style="{StaticResource MaterialDesignFloatingActionButton}" Background="{x:Null}"
+                <Button Margin="10 20" 
+                        Style="{StaticResource MaterialDesignFloatingActionButton}" 
+                        Background="{x:Null}"
 ToolTip="Close" x:Name="btnExit" Click="btnExit_Click">
                     <materialDesign:PackIcon Kind="Close" Foreground="White" Width="30" Height="30" />
                 </Button>
